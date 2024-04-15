@@ -1,0 +1,9 @@
+{
+  "name": "sdktut",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@stabilityprotocol/provider": "^1.4.0"
+  }
+}
